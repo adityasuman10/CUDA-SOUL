@@ -7,4 +7,4 @@ One of the primary uses of CUDA is in scientific computing, where large datasets
 Overall, CUDA has transformed GPUs into powerful tools for high-performance computing, enabling faster, more efficient solutions across many industries.
 
 
- ![Image Alt](image_url)
+ ![Image Alt](https://github.com/adityasuman10/CUDA-SOUL/blob/23e05b739bef3da49fac87ea5b353b9de20ebf81/arishem.png)
