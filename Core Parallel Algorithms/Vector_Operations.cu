@@ -2,6 +2,7 @@
 #include <cmath>
 #include <cuda_runtime.h>
 
+
 #define CUDA_CHECK(err) \
     do { \
         cudaError_t err_ = (err); \
